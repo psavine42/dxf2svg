@@ -1,0 +1,127 @@
+[{
+    "name": "0",
+    "color": 7,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "G-Anno-Nplt",
+    "color": 245,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Anno-Titl-Bdry",
+    "color": 239,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Anno-Titl-Note",
+    "color": 231,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "Defpoints",
+    "color": 245,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Wall",
+    "color": 113,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Glaz",
+    "color": 151,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Anno-Dims",
+    "color": 211,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Anno-Note",
+    "color": 231,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "I-Furn",
+    "color": 30,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Area-Spce",
+    "color": 245,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": true,
+    "on": true
+}, {
+    "name": "A-Area-Iden",
+    "color": 152,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "G-Anno-Ttlb",
+    "color": 213,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "Layer 1",
+    "color": 7,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Wall-Open",
+    "color": 31,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Anno-Note-Fire",
+    "color": 231,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Equim-FIRE",
+    "color": 91,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}, {
+    "name": "A-Area-Iden @ 48",
+    "color": 152,
+    "linetype": "Continuous",
+    "locked": false,
+    "frozen": false,
+    "on": true
+}]

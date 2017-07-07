@@ -1,0 +1,30 @@
+{
+    "categories": {
+        "wall": {
+            "color": "#ff0000"
+        },
+        "window": {
+            "color": "#00ff00"
+        },
+        "door": {
+            "color": "#0000ff"
+        },
+        "ignore": {"color":"ignore"}
+    },
+    "files": {
+        "cl": {
+            "wall": ["A-Wall"],
+            "window": ["A-Glaz", "A-Glaz-Assm-Glaz"],
+            "shaft":["A-Wall-Chas"],
+            "door": ["A-Door", "D-Door", "A-Door-Iden"],
+            "ignore": ["A-Area-Spce"],
+            "furniture": []
+        },
+        "clsmall": {
+            "wall": ["A-Wall"],
+            "window": [],
+            "door": [],
+            "furniture": []
+        }
+    }
+}
